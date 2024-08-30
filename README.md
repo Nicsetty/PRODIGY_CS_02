@@ -55,14 +55,8 @@ Here’s a quick example of how the tool works:
 - **Encrypted Image**: Encrypt the image with a key (e.g., 42).
 - **Decrypted Image**: Decrypt the image with the same key (e.g., 42) to get back the original image.
 
-## Screenshots
 
-(Add screenshots of the tool in action here)
 
 ## Contributing
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
