@@ -17,7 +17,7 @@ This is a simple GUI-based image encryption and decryption tool built with Pytho
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/simple-image-encryption-tool.git
+    git clone https://github.com/nicsetty/simple-image-encryption-tool.git
     cd simple-image-encryption-tool
     ```
 
